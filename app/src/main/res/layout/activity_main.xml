@@ -9,7 +9,7 @@
     <Button
         android:layout_width="300px"
         android:layout_height="100px"
-        android:text="button1"/>
+        android:text="button"/>
 
 
 </android.support.constraint.ConstraintLayout>
